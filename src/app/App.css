@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'SEGA';
+  font-weight: normal;
+  src: local('SEGA'), url('SEGA.TTF');
+}
+
+h1 {
+  font-family: 'SEGA';
+  color: #0ccac4;
+}
